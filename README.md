@@ -3,6 +3,10 @@
 ### World of Warcraft guild currency manager discord bot
 Using Gradle and JDA
 
+Used for managing 40-player raid loot distribution live in an already chaotic environment
+
+
+
 
 
 Key Functions:
