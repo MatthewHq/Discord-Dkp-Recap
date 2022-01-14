@@ -148,7 +148,7 @@ public class App extends ListenerAdapter {
                     } else if (event.getMessage().getContentDisplay().startsWith("!msgJSON")
                             || event.getMessage().getContentDisplay().startsWith("!mj")) {
                         msgJSON(event);
-                    } else if (event.getMessage().getContentDisplay().startsWith("!msgJSON")
+                    } else if (event.getMessage().getContentDisplay().startsWith("!backupJSON")
                             || event.getMessage().getContentDisplay().startsWith("!bj")) {
                         backupJSON(event);
                     } else if (event.getMessage().getContentDisplay().startsWith("!importjson")
